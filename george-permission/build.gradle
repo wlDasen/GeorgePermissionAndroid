@@ -5,8 +5,8 @@ ext {
     bintrayName = 'george-permission'
 
     publishedGroupId = 'net.george.permission'
-    libraryName = 'FBLike'
-    artifact = 'fb-like'
+    libraryName = 'GeorgePermission'
+    artifact = 'george-permission'
 
     libraryDescription = 'A library to request dangerous permissions easily.'
 
@@ -15,7 +15,7 @@ ext {
 
     libraryVersion = '0.0.1'
 
-    developerId = 'wlDasen'
+    developerId = 'georgejiapeidi'
     developerName = 'george'
     developerEmail = 'jiapeidi@sunniwell.net'
 
